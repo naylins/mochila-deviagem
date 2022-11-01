@@ -1,2 +1,1 @@
-# mochila-deviagem
-Armazenando dados no navegador com localStorage
+# alura-armazenando-na-web
